@@ -1,6 +1,6 @@
 This repository containes task 2 made by Tanuj Singh (me) and it contains a To-Do List which help to mark down the important things and task to do.
 
-TASK 1 : Create and Deploy a To-Do List Page
+TASK 2 : Create and Deploy a To-Do List Page
 
 PAGE NAME : Landing Page
 
